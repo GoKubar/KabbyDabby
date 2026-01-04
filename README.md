@@ -1,6 +1,6 @@
-- Hi, I’m @KabbyDabby
-- I'm currently a junior in high school who's interested in coding and math
-- I'm on FTC team 19889 Robo-Sapiens
+- Hi, I’m @GoKubar
+- I'm currently a senior in high school who's interested in coding and math
+- I'm on FTC team 365 MOE
 - I also like reading and playing video games for fun
 
 <!---
